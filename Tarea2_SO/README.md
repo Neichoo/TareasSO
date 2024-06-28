@@ -1,7 +1,7 @@
 # Grupo-27
-## Integrantes (Nombre/Rol/Paralelo):
-- Diego Ramírez Rojas/202073534-4/200
-- Ignacio Gómez González/202273553-8/200
+## Integrantes (Nombre/Paralelo):
+- Diego Ramírez Rojas/200
+- Ignacio Gómez González/200
 
 ## Uso correcto del programa:
 - Se necesita tener todos los archivos en un misma carpeta.
